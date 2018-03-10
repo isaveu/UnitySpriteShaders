@@ -67,7 +67,7 @@ Copy the SpriteShaders folder to anywhere inside your Unity Assets folder. On yo
 
 ## Material Property Names
 Below are some of the Material Property Names/IDs that are commonly animated from code.
-You can use these in conjunction with Unity's MaterialPropertyBlock API ([MaterialPropertyBlock](https://docs.unity3d.com/ScriptReference/MaterialPropertyBlock.html), [Renderer.SetPropreryBlock](https://docs.unity3d.com/ScriptReference/Renderer.SetPropertyBlock.html)) to override property value sper renderer.
+You can use these in conjunction with Unity's MaterialPropertyBlock API ([MaterialPropertyBlock](https://docs.unity3d.com/ScriptReference/MaterialPropertyBlock.html), [Renderer.SetPropreryBlock](https://docs.unity3d.com/ScriptReference/Renderer.SetPropertyBlock.html)) to override property values per renderer.
 You can also use these with [Shader.PropertyToID](https://docs.unity3d.com/ScriptReference/Shader.PropertyToID.html).
 
 ### Main Maps
